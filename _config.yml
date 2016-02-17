@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+permalink:        pretty
 
 # Setup
 title:            Hyde
